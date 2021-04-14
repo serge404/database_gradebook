@@ -1,4 +1,4 @@
-#CREATE SCHEMA GRADEBOOK;
+CREATE SCHEMA GRADEBOOK;
 
 # Task 2: Write the commands for creating tables and inserting values
 DROP TABLE IF EXISTS STUDENT;
